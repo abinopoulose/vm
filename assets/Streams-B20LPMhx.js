@@ -1,0 +1,1 @@
+import{t as e}from"./Streams-BaLcGYfs.js";export{e as StandardStream};

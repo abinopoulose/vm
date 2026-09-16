@@ -1,0 +1,1 @@
+import{t as e}from"./appRegistry-Xnm2A1WJ.js";export{e as APP_REGISTRY};

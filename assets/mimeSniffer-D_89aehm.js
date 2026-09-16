@@ -1,0 +1,1 @@
+import{t as e}from"./mimeSniffer-BOkBMS7l.js";export{e as sniffMimeType};

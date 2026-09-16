@@ -1,0 +1,1 @@
+var e={title:`DOMinion`,logoUrl:`/favicon.svg`,developerEmail:`email@abino.in`,devWebsite:`https://abino.in`};export{e as t};

@@ -1,0 +1,1 @@
+import{r as e}from"./middleware-Cq0DtGMB.js";import"./authContext-DbN4LBxp.js";var t=e(e=>({clipboard:{action:null,nodeIds:[]},setClipboard:(t,n)=>e({clipboard:{action:t,nodeIds:n}})}));export{t};

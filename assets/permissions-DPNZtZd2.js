@@ -1,0 +1,1 @@
+import{n as e}from"./permissions-BQwLyEq1.js";export{e as hasPermission};

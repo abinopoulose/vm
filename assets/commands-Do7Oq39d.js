@@ -1,0 +1,1 @@
+import{n as e,t}from"./commands-D8QRDgx3.js";export{t as commandRegistry,e as loadDynamicCommands};
